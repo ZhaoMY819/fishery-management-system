@@ -11,17 +11,15 @@
 |--------|----------|
 | ![登录页](screenshots/login.png) | ![数据大屏](screenshots/dashboard.png) |
 
-| 渔场管理 | 订单管理 |
-|----------|----------|
-| ![渔场管理](screenshots/fishery-list.png) | ![订单管理](screenshots/order-list.png) |
+| 渔场管理 |
+|----------|
+| ![渔场管理](screenshots/fishery-list.png) |
 
 ### 用户端
 
-| 首页 | 渔场详情 |
-|------|----------|
-| ![首页](screenshots/front-home.png) | ![渔场详情](screenshots/front-detail.png) |
-
-> 💡 截图替换方法：在项目根目录创建 `screenshots` 文件夹，把截图放进去，文件名对应上就行。或者直接在GitHub编辑README时把图片拖进去自动生成链接。
+| 首页 |
+|------|
+| ![首页](screenshots/front-home.png) |
 
 ## 技术栈
 
